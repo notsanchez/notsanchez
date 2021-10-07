@@ -2,13 +2,7 @@ Hi, call me Matheus 👋.
 
 I'm a specialized in delivering high-quality Front/back-end solutions. not limited to React web apps and Node.js monoliths and microservices. I enjoy exploring the capabilities of modern tools, which leads engineering towards new, flexible solutions
 
-17y 
-
-Front/back-end dev
-skilled in companies system 
-databases(sql/firebase) 
- 
-business inquires: @sxnchezlol
+find me: @sxnchezlol
 
 <!---
 notsanchez/notsanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
