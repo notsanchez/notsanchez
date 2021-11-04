@@ -1,6 +1,6 @@
 Hi, call me Matheus 👋.
 
-I'm a specialized in delivering high-quality Front-end solutions. not limited to React web apps, Node.js monoliths and microservices. I enjoy exploring the capabilities of modern tools, which leads engineering towards new, flexible solutions.
+I'm a specialized in delivering high-quality Front-end solutions. not limited to React web apps, Node.js monoliths and microservices. I enjoy exploring the capabilities of modern tools, which leads engineering towards new flexible solutions.
 
 find me: @sxnchezlol
 
