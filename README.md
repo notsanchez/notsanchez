@@ -1,8 +1,8 @@
 ## **Matheus Machado** - Enthusiastic Typescript and Dart Developer.
 <div align="center">
   <a href="https://github.com/notsanchez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notsanchez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsanchez&layout=compact&langs_count=7&theme=dracula"/>
+      <img align="center" alt="pic" height="100" style="border-radius: 50px;"              src="https://media.discordapp.net/attachments/787508720786735117/954412806021738576/Zkim.gif">
+  <img height="280em" width="1940" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsanchez&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,7 +11,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="right" alt="pic" height="200" style="border-radius: 50px;" src="https://media.discordapp.net/attachments/787508720786735117/953148332161765386/iTv6qeH.gif">
 </div>
   
   ##
