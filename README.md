@@ -13,7 +13,7 @@ I'm Matheus Machado, brazilian software developer.
 ### About me
 
 
-* 👨‍🎓  I'm a Analysis and development student at Universidade Municipal De São Caetano Do Sul;
+* 👨‍🎓  I'm a Analysis and development student in first-year at Universidade Municipal De São Caetano Do Sul;
 * 📚  I’m currently learning Python, Microservices, React, Next and Clean arch;
   
 ### Technologies
