@@ -6,18 +6,15 @@
 ### Welcome to my github! <br>
 I'm Matheus Machado, brazilian software developer.
 
-
+<div align="left">
+  <a href="https://matheusmachado.dev/">Personal Portfolio</a>
+</div>
 
 ### About me
 
 
-* 👨‍🎓  I'm a Analys and development Student at Universidade Municipal De São Caetano Do Sul;
+* 👨‍🎓  I'm a Analysis and development student at Universidade Municipal De São Caetano Do Sul;
 * 📚  I’m currently learning Python, Microservices, React, Next and Clean arch;
-
-<div align="center">
-  <a href="https://github.com/notsanchez">
-
-</div>
   
 ### Technologies
   
