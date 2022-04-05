@@ -44,5 +44,5 @@ I'm Matheus Machado, brazilian software developer.
 
 <div align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=notsanchez&show_icons=true&theme=dark&include_all_commits=true&count_private=dark"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsanchez&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsanchez&hide=html,css&layout=compact&langs_count=7&theme=dark"/>
 </div>
