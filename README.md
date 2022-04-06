@@ -1,4 +1,4 @@
-# Hello there!
+# Hello there!👋
 
 <img align="right" alt="Rafa-pic" height="300" style="border-radius:50px;" src="https://media.discordapp.net/attachments/787508720786735117/959124777312845854/f094753581c6b98d1dd89d71d4044367.jpg">
 
@@ -13,9 +13,9 @@ I'm Matheus Machado, brazilian software developer.
 ### About me
 
 
-* 👨‍🎓  I'm a Analysis and development student in first-year at Universidade Municipal De São Caetano Do Sul;
+* 👨‍🎓  Analysis and development student in first-year at Universidade Municipal De São Caetano Do Sul;
 * 👩🏻‍💻 I'm currently open for works and proposals;
-* 📚  I’m currently learning Python for web, Microservices, Next and Clean arch;
+* 📚  at moment i'm learning Python for web, Microservices, Next, Clean arch and SASS/SCSS for design large scalability projects;
   
 ### Technologies
   
