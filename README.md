@@ -1,6 +1,6 @@
 # Hello there!👋
 
-<img align="right" alt="Rafa-pic" height="300" style="border-radius:50px;" src="https://media.discordapp.net/attachments/787508720786735117/959124777312845854/f094753581c6b98d1dd89d71d4044367.jpg">
+<img align="right" alt="Rafa-pic" width="400" style="border-radius:50px;" src="https://media.discordapp.net/attachments/787508720786735117/957862735327158312/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f696d616765732f37353866316364386365646539633365343731313330366663303330663463652f74656e6f722e6769663f6974656d69643d3134363430303535.gif">
 
 
 ### Welcome to my github! <br>
