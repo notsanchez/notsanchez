@@ -1,6 +1,6 @@
 ## Hi, my name is Matheus, and I am an high level developer. 👋
 
-<img align="right" alt="Rafa-pic" width="400" style="border-radius:50px;" src="https://media.discordapp.net/attachments/787508720786735117/957862735327158312/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f696d616765732f37353866316364386365646539633365343731313330366663303330663463652f74656e6f722e6769663f6974656d69643d3134363430303535.gif">
+<img align="right" alt="Rafa-pic" width="400" style="border-radius:50px;" src="https://giffiles.alphacoders.com/112/112547.gif">
 
 <div align="left">
   <a href="https://matheusmachado.dev/">Personal Portfolio</a>
@@ -11,7 +11,7 @@
 
 * 👨‍🎓  Analysis and development student in first-year at Universidade Municipal De São Caetano Do Sul;
 * 👩🏻‍💻 I'm currently open for works and proposals;
-* 📚  at moment i'm learning Python for web, Microservices, Next, Clean arch and SASS/SCSS for design large scalability projects;
+* 📚  at moment i'm learning C#, Next, Clean arch and SASS/SCSS for design large scalability projects;
   
 ### Technologies
   
