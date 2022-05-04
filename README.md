@@ -1,4 +1,4 @@
-## Hi, my name is Matheus, and I am an high level developer. 👋
+## Hi, my name is Matheus, and I am a front-end developer. 👋
 
 <img align="right" alt="Rafa-pic" width="400" style="border-radius:50px;" src="https://giffiles.alphacoders.com/112/112547.gif">
 
