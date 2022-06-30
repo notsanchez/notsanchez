@@ -1,4 +1,4 @@
-## Hi, my name is Matheus, and I am a front-end developer. 👋
+## Matheus Machado | High-end Developer. 👋
 
 <img align="right" alt="Rafa-pic" width="400" style="border-radius:50px;" src="https://giffiles.alphacoders.com/112/112547.gif">
 
