@@ -7,7 +7,7 @@
 
 * 👨‍🎓  Analysis and development student in first-year at University of Sao Caetano Do Sul;
 * 👩🏻‍💻 I'm currently open for works and proposals;
-* 📚  at moment i'm learning C#, Next, Clean arch and SASS/SCSS for design large scalability projects;
+* 📚  at moment i'm learning ASP.NET Core, Next, Clean arch and Typescript for scalability projects;
   
 ### Technologies
   
