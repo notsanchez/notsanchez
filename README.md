@@ -3,9 +3,9 @@
 ### About me
 
 
-* 👨‍🎓  Analysis and development student in first-year at University of Sao Caetano Do Sul;
+* 👨‍🎓  **Analysis and development** student in first-year at University of Sao Caetano Do Sul;
 * 👩🏻‍💻 I'm currently open for works and proposals;
-* 📚  at moment i'm learning React Native, Node.js and Typescript for scalability projects;
+* 📚  at moment i'm learning **React Native**, **Node.js** and **TypeScript** for **scalability projects**;
   
 ### Technologies
   
