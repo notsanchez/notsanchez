@@ -29,10 +29,3 @@
   <a href="https://www.linkedin.com/in/matheus-machado-661941227" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-
-### Coding
-
-<div align="center">
-  <img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=notsanchez&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsanchez&hide=html,css&layout=compact&langs_count=7&theme=dark"/>
-</div>
