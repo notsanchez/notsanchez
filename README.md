@@ -1,13 +1,10 @@
 ## Matheus Machado | High-end Developer. 👋
 
-### About me
-
 
 * 👨‍🎓  **Analysis and development** student in first-year at University of Sao Caetano Do Sul;
 * 👩🏻‍💻 I'm currently open for works and proposals;
 * 📚  at moment i'm learning **React Native**, **Node.js** and **TypeScript** for **scalability projects**;
-  
-These are some technologies that i know:
+
 <div style="display: inline_block">
   <img align="center" alt="Js" src="https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074">
   <img align="center" alt="Ts" src="https://camo.githubusercontent.com/44786ee82109a02ae6adb26b8b93aa5830f7e1bfc2a432dcc27da4088a37b288/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642">
