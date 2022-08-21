@@ -1,17 +1,32 @@
 ## Matheus Machado | High-end Developer. 👋
 
+```console
+root@arch:~$ notsanchez > README.md
+```
 
-* 👨‍🎓  **Analysis and development** student in first-year at University of Sao Caetano Do Sul;
-* 👩🏻‍💻 I'm currently open for works and proposals;
-* 📚  at moment i'm learning **React Native**, **Node.js** and **TypeScript** for **scalability projects**;
+<img align="left" src="https://www.github.com/notsanchez.png" width="300" height="300" />
 
-<div style="display: inline_block">
-  <img align="center" alt="Js" src="https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074">
-  <img align="center" alt="Ts" src="https://camo.githubusercontent.com/44786ee82109a02ae6adb26b8b93aa5830f7e1bfc2a432dcc27da4088a37b288/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642">
-  <img align="center" alt="React" src="https://camo.githubusercontent.com/fbffce5072e2d8fa2600497790a35fd2b3b3514608bc6d899617b8d7acee1e60/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465">
-  <img align="center" alt="CSS" src="https://camo.githubusercontent.com/314eb111abf9ce9bc943dace38c7a98b0edf22b6c9581330a8e24d0d33d85d86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970657363726970742532302d2532334633373632362e7376673f267374796c653d666c61742d737175617265266c6f676f3d54797065736372697074266c6f676f436f6c6f723d7768697465">
-  
- 
+![nameLabel](https://img.shields.io/static/v1?label=&message=name%3A&color=111&style=flat-square)
+![nameInfo](https://img.shields.io/static/v1?label=&message=Matheus&color=555&style=flat-square)
+
+![nameLabel](https://img.shields.io/static/v1?label=&message=age%3A&color=111&style=flat-square)
+![nameInfo](https://img.shields.io/static/v1?label=&message=18&color=555&style=flat-square)
+
+![nameLabel](https://img.shields.io/static/v1?label=&message=occupation%3A&color=111&style=flat-square)
+![nameInfo](https://img.shields.io/static/v1?label=&message=Analysis%20and%20development%20student%20in%20first-year%20at%20University%20of%20Sao%20Caetano%20Do%20Sul%20and%20Front-end%20developer&color=555&style=flat-square)
+
+![interestsLabel](https://img.shields.io/static/v1?label=&message=interests%3A&color=111&style=flat-square)
+![interestsInfo](https://img.shields.io/static/v1?label=&message=front-end%20engineering%2C%20dynamic%20systems%2C%20continuous%20development&color=555&style=flat-square)
+
+
+![languagesLabel](https://img.shields.io/static/v1?label=&message=languages%3A&color=111&style=flat-square)
+![languages1](https://img.shields.io/static/v1?logo=react&label=&message=React&color=555&style=flat-square)
+![languages1](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=TailwindCSS&color=555&style=flat-square)
+![languages1](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=555&style=flat-square)
+![languages2](https://img.shields.io/static/v1?logo=node.js&label=&message=Node&color=555&style=flat-square)
+![languages2](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=555&style=flat-square)
+![languages2](https://img.shields.io/static/v1?logo=flask&label=&message=Flask&color=555&style=flat-square)
+
 ### 
 <div>
   
