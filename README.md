@@ -5,25 +5,25 @@ root@arch:~$ notsanchez > README.md
 ```
 
 ![nameLabel](https://img.shields.io/static/v1?label=&message=name%3A&color=111&style=flat-square)
-![nameInfo](https://img.shields.io/static/v1?label=&message=Matheus&color=555&style=flat-square)
+![nameInfo](https://img.shields.io/static/v1?label=&message=Matheus&color=4c2196&style=flat-square)
 
 ![nameLabel](https://img.shields.io/static/v1?label=&message=age%3A&color=111&style=flat-square)
-![nameInfo](https://img.shields.io/static/v1?label=&message=18&color=555&style=flat-square)
+![nameInfo](https://img.shields.io/static/v1?label=&message=18&color=4c2196&style=flat-square)
 
 ![nameLabel](https://img.shields.io/static/v1?label=&message=occupation%3A&color=111&style=flat-square)
-![nameInfo](https://img.shields.io/static/v1?label=&message=Analysis%20and%20development%20student%20in%20first-year%20at%20University%20of%20Sao%20Caetano%20Do%20Sul%20and%20Front-end%20developer&color=555&style=flat-square)
+![nameInfo](https://img.shields.io/static/v1?label=&message=Analysis%20and%20development%20student%20in%20first-year%20at%20University%20of%20Sao%20Caetano%20Do%20Sul%20and%20Front-end%20developer&color=4c2196&style=flat-square)
 
 ![interestsLabel](https://img.shields.io/static/v1?label=&message=interests%3A&color=111&style=flat-square)
-![interestsInfo](https://img.shields.io/static/v1?label=&message=front-end%20engineering%2C%20dynamic%20systems%2C%20continuous%20development%2C%20REST%20API%20integration&color=555&style=flat-square)
+![interestsInfo](https://img.shields.io/static/v1?label=&message=front-end%20engineering%2C%20dynamic%20systems%2C%20continuous%20development%2C%20REST%20API%20integration&color=4c2196&style=flat-square)
 
 
 ![languagesLabel](https://img.shields.io/static/v1?label=&message=languages%3A&color=111&style=flat-square)
-![languages1](https://img.shields.io/static/v1?logo=react&label=&message=React&color=555&style=flat-square)
-![languages1](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=TailwindCSS&color=555&style=flat-square)
-![languages1](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=555&style=flat-square)
-![languages2](https://img.shields.io/static/v1?logo=node.js&label=&message=Node&color=555&style=flat-square)
-![languages2](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=555&style=flat-square)
-![languages2](https://img.shields.io/static/v1?logo=flask&label=&message=Flask&color=555&style=flat-square)
+![languages1](https://img.shields.io/static/v1?logo=react&label=&message=React&color=2a1352&style=flat-square)
+![languages1](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=TailwindCSS&color=2a1352&style=flat-square)
+![languages1](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=2a1352&style=flat-square)
+![languages2](https://img.shields.io/static/v1?logo=node.js&label=&message=Node&color=2a1352&style=flat-square)
+![languages2](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=2a1352&style=flat-square)
+![languages2](https://img.shields.io/static/v1?logo=flask&label=&message=Flask&color=2a1352&style=flat-square)
 
 ### 
 <div>
