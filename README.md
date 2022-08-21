@@ -4,8 +4,6 @@
 root@arch:~$ notsanchez > README.md
 ```
 
-<img align="right" src="https://www.github.com/notsanchez.png" width="200" height="200" />
-
 ![nameLabel](https://img.shields.io/static/v1?label=&message=name%3A&color=111&style=flat-square)
 ![nameInfo](https://img.shields.io/static/v1?label=&message=Matheus&color=555&style=flat-square)
 
