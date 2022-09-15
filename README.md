@@ -14,7 +14,7 @@ root@arch:~$ notsanchez > README.md
 ![nameInfo](https://img.shields.io/static/v1?label=&message=Analysis%20and%20development%20student%20in%20first-year%20at%20University%20of%20Sao%20Caetano%20Do%20Sul%20and%20Front-end%20developer%20at%20BeaverBit&color=4c2196&style=flat-square)
 
 ![interestsLabel](https://img.shields.io/static/v1?label=&message=interests%3A&color=111&style=flat-square)
-![interestsInfo](https://img.shields.io/static/v1?label=&message=front-end%20engineering%2C%20dynamic%20systems%2C%20continuous%20development%2C%20complex %20API%20development&color=4c2196&style=flat-square)
+![interestsInfo](https://img.shields.io/static/v1?label=&message=front-end%20engineering%2C%20dynamic%20systems%2C%20continuous%20development%2C%20complex%20API%20development&color=4c2196&style=flat-square)
 
 
 ![languagesLabel](https://img.shields.io/static/v1?label=&message=languages%3A&color=111&style=flat-square)
