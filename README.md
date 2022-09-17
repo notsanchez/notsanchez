@@ -1,4 +1,4 @@
-## Matheus Machado | High-end Engineer. 👋
+## Matheus Sanchez | High-end Engineer. 👋
 
 ```console
 root@arch:~$ notsanchez > README.md
