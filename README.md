@@ -1,6 +1,6 @@
 ## About Me
 
-<img align="right" src="https://wsrv.nl/?url=https://i.pinimg.com/564x/54/8a/c6/548ac6e5947461f0e9dc8e51ec9c55b4.jpg&w=230&h=230&fit=cover&mask=circle">
+<img align="right" src="https://wsrv.nl/?url=https://i.pinimg.com/564x/11/83/e5/1183e598188c2739893c5132dbdc11b0.jpg&w=230&h=230&fit=cover&mask=circle">
 <p>
 	I'm a 18 aged Brazilian Back-end Software Engineer, I write some Complex API's, SSR Front-end's, Web Scraping and usually with MVC architecture & SOLID. Currently Front-end developer at @ BeaverBit.
 	<br /><br />
