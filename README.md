@@ -4,7 +4,7 @@
 <p>
 	I'm a 18 aged Brazilian Back-end Software Engineer, I write some Complex API's, SSR Front-end's, Web Scraping and usually with MVC architecture & SOLID. Currently Front-end developer at @ BeaverBit.
 	<br /><br />
-	Motivated by the desire to change the world with technology, I started a daily study routine about 4 years ago.
+	Motivated by the desire to change the world with technology, I started a daily study routine about 6 years ago.
 </p>
 
 ![Typescript Badge](https://img.shields.io/badge/Typescript-1d1d1d?style=for-the-badge&logo=typescript&logoColor=d6bd6b)
