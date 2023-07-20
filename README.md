@@ -2,7 +2,7 @@
 
 <img align="right" src="https://wsrv.nl/?url=https://i.pinimg.com/564x/cf/63/20/cf63203530049bba78e805e47c718638.jpg&w=230&h=230&fit=cover&mask=circle">
 <p>
-	I'm a 18 aged Brazilian Back-end Software Engineer, I write some Complex API's, SSR Front-end's, Web Scraping and usually with MVC architecture & SOLID. Currently Front-end developer at @ BeaverBit.
+	I'm a 19 aged Brazilian Back-end Software Engineer, I write some Complex API's, SSR Front-end's, Web Scraping and usually with MVC architecture & SOLID. Currently Front-end developer at @ BeaverBit.
 	<br /><br />
 	Motivated by the desire to change the world with technology, I started a daily study routine about 6 years ago.
 </p>
