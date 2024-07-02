@@ -2,7 +2,7 @@
 
 <img align="right" src="https://wsrv.nl/?url=https://i.pinimg.com/736x/c6/ef/93/c6ef93641ba0f6be7431633b4a74e885.jpg&w=230&h=230&fit=cover&mask=circle">
 <p>
-	I'm a 20 aged Full-stack Software Engineer, I write some Complex & robust API's with Node and ASP.NET, Microservices with Kafka and NestJS, Performative Front-end's with NextJS and Vue/Nuxt, using MVC & Clean architecture applying SOLID. Currently Full-stack developer at @ Eshows.
+	I'm a 20 aged Brazilian Full-stack SWE, i write some complex & robust API's with Node and ASP.NET, microservices with Kafka and NestJS, performative front-end's with NextJS and Vue/Nuxt. Using MVC & Clean architecture, applying SOLID. Currently Full-stack developer at @ Eshows.
 	<br /><br />
 	Motivated by the desire to change the world with technology, I started a daily study routine about 6 years ago.
 </p>
